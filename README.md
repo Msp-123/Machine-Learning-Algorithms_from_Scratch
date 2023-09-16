@@ -1,6 +1,4 @@
 # Machine-Learning-Algorithms
-In this folder, it is aimed to better explain the logic of these algorithms by writing machine learning algorithms from scratch.
+In this folder, our main goal is to make machine learning algorithms more accessible by creating custom implementations from scratch, providing a clearer understanding of their inner workings.
 
-
-1.) KNN
-2.) Linear Regression
+1.) KNN \n2.) Linear Regression
